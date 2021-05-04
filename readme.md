@@ -11,8 +11,6 @@
    - Write down all the steps followed for setting up the test.
    - Calculate the test statistic by hand and also code it in Python. It should be 4.76190. We will take a look at how to make decisions based on this calculated value.
 
-2. If you finished the previous question, please go through the code for `principal_component_analysis_example` provided in the `files_for_lab` folder .
-
 
 
 
