@@ -9,7 +9,7 @@
 
    - Set up the hypothesis test.
    - Write down all the steps followed for setting up the test.
-   - Calculate the test statistic by hand and also code it in Python. It should be 4.76190. We will take a look at how to make decisions based on this calculated value.
+   - Calculate the test statistic. It should be 4.76190. We will take a look at how to make decisions based on this calculated value.
 
 
 
